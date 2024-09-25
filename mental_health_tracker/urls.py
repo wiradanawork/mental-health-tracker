@@ -1,5 +1,6 @@
 from django.urls import path, include
 from main.views import show_main
+from main.views import delete_mood
 
 app_name = 'main'
 
